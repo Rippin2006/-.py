@@ -1,2 +1,2 @@
 # Caesar-cipher-decryptor
-rust(cargo 1.78.0)
+rust(cargo 1.80.0)
